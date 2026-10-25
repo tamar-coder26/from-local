@@ -6,5 +6,5 @@ alert("5")
 return '5'
 }
 const c=()=>{
-console.log("ccc")
+console.log("func c")
 }
