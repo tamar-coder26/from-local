@@ -1,5 +1,6 @@
 const a=()=>{
 alert("hello")
+alert("featuer-2")
 }
 const b=()=>{
 alert("5") 
